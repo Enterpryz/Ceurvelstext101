@@ -12,4 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b4058f784a016b4b9c116fa5334ec56, type: 3}
   m_Name: Orion
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'You chose Orion
+
+'
+  nextStates: []
