@@ -14,7 +14,6 @@ public class SpaceGame : MonoBehaviour {
     void Start() {
         state = startingState;
         textComponent.text = state.GetStateStory();
-        
     }
 
     // Update is called once per frame
