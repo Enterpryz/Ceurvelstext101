@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4058f784a016b4b9c116fa5334ec56, type: 3}
+  m_Name: Weapons1
+  m_EditorClassIdentifier: 
+  storyText: '///HOLD. REPAIR IN PROGRESS...///
+
+    //SUCCESS. Hardware.system[var.Weapons_buffer.]
+    true.//
+
+
+    //Firing main artillery battery...//
+
+    //SUCCESS. Checking...//
+
+    //Status.enemydisabled
+    true.//
+
+    ///WARNING. COMM LINK ESTABLISHED. Checking... Identified user as
+    CMDR. BRINC.///
+
+
+    //"Sphynx? Do you copy?"
+
+    /Aye, sir.
+
+    //"Good,
+    I want you to arrange a boarding party, I''m going to pay those bastards a visit."
+
+    //CHECKING.//
+
+    ///WARNING.
+    Enemy fleet on advance, risk factor: high.///
+
+    Should I let him go?
+
+
+    1.
+    Agree
+
+    2. Refuse'
+  nextStates:
+  - {fileID: 11400000, guid: 1b80012f22cde9c4fb319c47a89428d2, type: 2}
+  - {fileID: 11400000, guid: 00e8434d16d90104bab3c0b363b5f51d, type: 2}

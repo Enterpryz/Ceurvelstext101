@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4058f784a016b4b9c116fa5334ec56, type: 3}
+  m_Name: Sphynx
+  m_EditorClassIdentifier: 
+  storyText: 'Parsing additive load... Buffering bio-circuitry.. engaging memory
+    drive..
+
+    2078, that''s the year things went to hell. They attacked us with
+    no warning, destroyed our fleets, our homes. My purpose is to serve the United
+    Coalition of Sol as the OBLACS (On-Board-Loaded-Artificial Command-System) for
+    the NCSS Daedilus, the first ship of its class. The war against the Indix has
+    been going poorly, and I''m afraid that they will-
+
+    //BUFFERING COMMAND STORAGE
+    DRIVE SYSTEMS. PLEASE HOLD.//
+
+
+    1. Next'
+  nextStates:
+  - {fileID: 11400000, guid: 31540fae161046b439253b1c540eb61e, type: 2}

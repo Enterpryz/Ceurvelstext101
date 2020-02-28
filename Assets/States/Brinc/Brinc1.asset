@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4058f784a016b4b9c116fa5334ec56, type: 3}
+  m_Name: Brinc1
+  m_EditorClassIdentifier: 
+  storyText: "Another day in ABSOLUTE BLOODY PARADISE. The Captain just called in
+    sick, so you're the only QUALIFIED (in your eyes) officer on this entire level
+    of this death trap in space. You read the reports about the Indix in the area,
+    so it'd probably be well-advised to activate that robot chick that they dropped
+    into the computer as a precaution. \nWhat do you do? Do you just ignore the program?\n\n1.
+    No, activate the newfangled machine.\n2. Nothing beats humans, leave the thing."
+  nextStates:
+  - {fileID: 11400000, guid: 580923f244c84a04480639d94ed47fc5, type: 2}
+  - {fileID: 11400000, guid: c7b31c1a8aa16ce44a3d643b55506702, type: 2}

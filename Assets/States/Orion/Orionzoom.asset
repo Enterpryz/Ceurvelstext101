@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4058f784a016b4b9c116fa5334ec56, type: 3}
+  m_Name: Orionzoom
+  m_EditorClassIdentifier: 
+  storyText: 'You don''t even bother calling, as soon as the computer began to say
+    the time you were out and running down the hall. You got onto the bridge in record
+    time for somebody in their forties. Brinc turns to look at you from his seat,
+
+    "Sir,
+    I have reports of high Indix activity in our sector, should I engage Sphynx?"
+
+    "Do
+    it, and ready the shields."
+
+    Brinc nods, and as you watch the crystal-like
+    sphere form around the ship, it shakes. You look through a window and see one
+    of the massive Indix cruisers dropping out of FTL.
+
+
+    1. Evasive manuevers
+
+    2.
+    ORS (Offensive Reaction System)'
+  nextStates:
+  - {fileID: 11400000, guid: 267f9e898e8e035478d19687c84369e3, type: 2}
+  - {fileID: 11400000, guid: 197cf9a596c1a5644ae47bbe14bd3615, type: 2}

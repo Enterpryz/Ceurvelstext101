@@ -10,9 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2b4058f784a016b4b9c116fa5334ec56, type: 3}
-  m_Name: Brinc
+  m_Name: Evasiveman.
   m_EditorClassIdentifier: 
-  storyText: 'You chose Brinc
+  storyText: 'You get rocked around as you stand on the bridge, the ship swerves
+    wildly. The Indix cruiser fires a volley of missiles at the Daedilus, but all
+    of them collide with orbital debris.
 
-'
-  nextStates: []
+    "Captain! I suggest we use ORS!"
+
+
+    1.
+    "Do it!"'
+  nextStates:
+  - {fileID: 11400000, guid: 197cf9a596c1a5644ae47bbe14bd3615, type: 2}

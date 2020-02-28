@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4058f784a016b4b9c116fa5334ec56, type: 3}
+  m_Name: Oriontaketime
+  m_EditorClassIdentifier: 
+  storyText: "///ADVISE. It is currently 0745 hours.///\nWell, time to head out.
+    You open a commlink with Brinc, \n\"Commander, I'll be arriving in a few minutes.\"\n\"Roger
+    that, sir. By the way, the computer is warning us of high Indix activity in our
+    sector, we might finally get some action out here.\"\n\"I hope not, Commander,
+    I don't want to risk something breaking on us, Orion out.\"\nAs you begin to
+    enter the elevator, the ship rocks and the lights dim to a menacing blue as sirens
+    blare. All you can do is wait whilst the elevator climbs up to the bridge.\n\n1.
+    Next"
+  nextStates:
+  - {fileID: 11400000, guid: 267f9e898e8e035478d19687c84369e3, type: 2}

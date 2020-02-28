@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4058f784a016b4b9c116fa5334ec56, type: 3}
+  m_Name: ORS
+  m_EditorClassIdentifier: 
+  storyText: 'The alarms blare as you watch the heavy artillery on the top and sides
+    of the ship turn toward the Indix cruiser. Screens on the bridge light up green
+    and yellow, and the air is filled with the sounds of alarms, mechanical beeping,
+    and crewmen running from console to console. You flick your gaze to the large
+    windows on the bridge again, and watch as volleys of heavy artillery, laser cannons,
+    and missiles fly from your ship straight toward the Indix cruiser. Most of the
+    rounds hit true, disabling the ship.
+
+    "Now THAT is what I like to see!" Brinc
+    exclaimed from his seat, "I''m going to arrange a boarding party and pay those
+    bastards a visit."
+
+    /"That is ill-advised, sir, there is a very high risk
+    factor, as my scanners detect reinforcements en route. I cannot let you proceed,
+    sir."/
+
+
+    1. Next'
+  nextStates:
+  - {fileID: 11400000, guid: 00e8434d16d90104bab3c0b363b5f51d, type: 2}

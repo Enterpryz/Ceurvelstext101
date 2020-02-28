@@ -10,9 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2b4058f784a016b4b9c116fa5334ec56, type: 3}
-  m_Name: Orion
+  m_Name: Hydroponics1
   m_EditorClassIdentifier: 
-  storyText: 'You chose Orion
+  storyText: '///HOLD. REPAIR IN PROGRESS...///
 
-'
-  nextStates: []
+    //SUCCESS. Hardware.system[var.Hydroponics-pumps]
+    true.//
+
+
+    The only thing left to do now is repair the weapons array before
+    the ship gets struck again.
+
+
+    1. Weapons'
+  nextStates:
+  - {fileID: 11400000, guid: 3b4c5da48228e03448a308d16e93f0b9, type: 2}

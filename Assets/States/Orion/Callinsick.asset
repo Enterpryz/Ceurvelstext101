@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4058f784a016b4b9c116fa5334ec56, type: 3}
+  m_Name: Callinsick
+  m_EditorClassIdentifier: 
+  storyText: 'You can barely get out of bed. the flu has really been beating you
+    down. You call Brinc and report in sick.
+
+
+    Are you certain you''d like to
+    swap to Brinc? If you agree to this, you can''t switch back to Orion, not for
+    a long time.
+
+    Cheers!
+
+    -The Builder
+
+
+    1. Yes, I''m certain.
+
+    2.
+    I don''t think I am, never mind.'
+  nextStates:
+  - {fileID: 11400000, guid: 63c2d269b3d2a734586bd488c254ac1e, type: 2}
+  - {fileID: 11400000, guid: 0498c8ee951b97e4782cdb2a51092ab0, type: 2}

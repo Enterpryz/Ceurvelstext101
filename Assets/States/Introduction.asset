@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2b4058f784a016b4b9c116fa5334ec56, type: 3}
-  m_Name: New State
+  m_Name: Introduction
   m_EditorClassIdentifier: 
-  storyText: 'Welcome to Fleetbreaker: Daedilus Siege. You can call me the Narrator,
+  storyText: 'Welcome to Fleetbreaker: Daedilus Siege. You can call me The Builder,
     I''ll be your guide.
 
     Before you are three options, three individuals with
@@ -22,10 +22,10 @@ MonoBehaviour:
     I must advise you, think through every decision with care,
     as something insignificant may lead to dire consequences...
 
-    Good luck,
-    and I will see you on the Daedilus.
+    Good luck, and
+    I will see you on the Daedilus.
 
-    
+
 
     1. Sphynx
 
@@ -35,5 +35,5 @@ MonoBehaviour:
     Lieutenant Commander Brinc'
   nextStates:
   - {fileID: 11400000, guid: 5331c6adee09a1444af323cff5734aea, type: 2}
-  - {fileID: 11400000, guid: b2f36ccb0bea9a248995f765dbbecce0, type: 2}
-  - {fileID: 11400000, guid: d4b366b613bd1b742b44d9812278ecda, type: 2}
+  - {fileID: 11400000, guid: 0498c8ee951b97e4782cdb2a51092ab0, type: 2}
+  - {fileID: 11400000, guid: 63c2d269b3d2a734586bd488c254ac1e, type: 2}
