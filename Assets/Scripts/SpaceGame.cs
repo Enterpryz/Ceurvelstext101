@@ -25,7 +25,7 @@ public class SpaceGame : MonoBehaviour {
     private void ManageState()
     {
         var nextStates = state.GetNextStates();
-        for (int index = 0; index < nextStates.Length; index++) ;
+        for (int index = 0; index < nextStates.Length; index++) 
         {
             if (Input.GetKeyDown(KeyCode.Alpha1 + index))
             {
